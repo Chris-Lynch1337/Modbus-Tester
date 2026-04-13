@@ -1,1 +1,1 @@
-"""Modbus TCP Tester package."""
+"""UI package."""
